@@ -20,7 +20,7 @@ ul li{
     height: 40px;
     width: 40px;
     border-radius: 50%;
-    background-color: green;
+    background-color: white;
     text-align: center;   
 }
 
@@ -29,4 +29,21 @@ ul li a{
     color: black;
 }
 
+#shoes-1{
+    height: 100vh;
+    width: 100vw;
+    background-color: red;
+}
+
+#shoes-2{
+    height: 100vh;
+    width: 100vw;
+    background-color: green;
+}
+
+#shoes-3{
+    height: 100vh;
+    width: 100vw;
+    background-color: yellow;
+}
 
